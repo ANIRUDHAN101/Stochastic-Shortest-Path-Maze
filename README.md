@@ -1,3 +1,3 @@
 # Stochastic-Shortest-Path-Maze
 finding the shortest path in a unpredictable maze
-![](/main/run.gif)
+![](/assets/images/run.gif)
